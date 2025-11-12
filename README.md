@@ -624,3 +624,13 @@ php artisan migrate:fresh --seed
 ## 📄 License
 
 Aplikasi ini dibuat untuk keperluan pembelajaran dan menggunakan framework Laravel yang berlisensi [MIT license](https://opensource.org/licenses/MIT).
+<img width="1728" height="1117" alt="Screenshot 2025-11-12 at 11 01 46" src="https://github.com/user-attachments/assets/fd81464e-c4c3-4fd3-a50a-456902f7a1e0" />
+
+
+<img width="1728" height="1117" alt="Screenshot 2025-11-12 at 11 11 14" src="https://github.com/user-attachments/assets/38183081-026c-4c4a-9dd4-168c3d4361d8" />
+<img width="1728" height="1117" alt="Screenshot 2025-11-12 at 11 10 08" src="https://github.com/user-attachments/assets/9d5164e1-9edc-4c50-a4ae-a58f2988a501" />
+<img width="1728" height="1117" alt="Screenshot 2025-11-12 at 11 09 06" src="https://github.com/user-attachments/assets/53808ec9-d3ae-4354-bca3-1e79d203444f" />
+
+<img width="1728" height="1117" alt="Screenshot 2025-11-12 at 10 20 28" src="https://github.com/user-attachments/assets/376f34bb-7973-4f9e-9810-44866efcbe0f" />
+<img width="1728" height="1117" alt="Screenshot 2025-11-12 at 10 15 37" src="https://github.com/user-attachments/assets/2c4bff6d-c937-4a16-a10f-893615d4e82b" />
+<img width="1728" height="1117" alt="Screenshot 2025-11-12 at 10 14 00" src="https://github.com/user-attachments/assets/2f126e77-adf0-49f7-b7fc-86abc53e215e" />
